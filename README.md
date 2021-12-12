@@ -18,5 +18,6 @@ I'm a CS undergraduate student from China,
 - 🌱 I'm fond of yet currently learning modern C++, TypeScript, Qt/QML, going to learn haskell, rust etc.
 - 🖥️ I'm working under [deepin OS](https://www.deepin.org).
 - 🔭 My interest field is currently computer architecture&hierarchy, consumer software, computer graphics. Too unfamiliar with ML/DL to have interest at the point.
+
 [![ZhongYic00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhongYic00&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongYic00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
