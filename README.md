@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a CS undergraduate student from China, 
 - 🌱 I'm fond of yet currently learning modern C++, TypeScript, Qt/QML, going to learn haskell, rust etc.
-- 🖥️ I'm working under [deepin OS](https://www.deepin.org). Attendee of WHLUG
+- 🖥️ I'm working under & for [deepin OS](https://www.deepin.org). Attendee of WHLUG
 - 🔭 My interest field is currently computer architecture&hierarchy, consumer software, computer graphics. Too unfamiliar with ML/DL to have interest at the point.
 - ⚡ Have experience in UI dev (desktop & web), graph database (RDF & property graph), system dev (OS kernel contest & CPU design), IoT projects (ohos & maixpy), DIY (3D print & bicycle) etc.
 
