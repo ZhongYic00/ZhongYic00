@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a CS undergraduate student from China, 
-- 🌱 I'm fond of yet currently learning modern C++, TypeScript, Qt/QML, going to learn haskell, rust etc.
-- 🖥️ I'm working under & for [deepin OS](https://www.deepin.org). Attendee of WHLUG
-- 🔭 My interest field is currently computer architecture&hierarchy, consumer software, computer graphics. Too unfamiliar with ML/DL to have interest at the point.
-- ⚡ Have experience in UI dev (desktop & web), graph database (RDF & property graph), system dev (OS kernel contest & CPU design), IoT projects (ohos & maixpy), DIY (3D print & bicycle) etc.
+I'm a CS master student from China, 
+- 🌱 I'm fond of yet currently learning modern C++, TypeScript, Qt/QML, rust, going to learn functional etc.
+- 🖥️ I'm using [deepin OS](https://www.deepin.org), for 8yrs.
+- 🔭 My interest field is currently Arch & Sys, SE & Security, consumer software. Catching up with DL/AI trends.
+- ⚡ Have experience in UI dev (desktop & web), graph database (RDF & property graph), system dev (OS kernel contest & CPU design), IoT projects (ohos & maixpy), RTL bug hunting(HACK@DATE), DIY (3D print & bicycle) etc.
 
 [![ZhongYic00's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhongYic00&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhongYic00&layout=compact&hide=html,css,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
